@@ -19,7 +19,7 @@
 ## 🚀 About Me
 
 - 📊 **Experience**: 2+ years in AI and Data Science  
-- 🧠 **Skills**: LLMs, RAG, AI Agents, Deep Learning, AWS MLOps  
+- 🧠 **Skills**: LLMs, RAG, AI Agents, Deep Learning, AWS
 - 💻 **Tech Stack**: Python, Pandas, PyTorch, TensorFlow, OpenAI APIs  
 - 🤖 **AI Agents**: Building AI-driven task automation workflows using **CrewAI** and **LangChain**  
 - 🌍 **Currently exploring**: AI platforms and Intelligent Agents for businesses 
